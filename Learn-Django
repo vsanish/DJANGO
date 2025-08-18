@@ -3,4 +3,11 @@ DJANGO BUILD CENTRE
 
 1.Django basic setup
 2.Creating Django apps
-3.Templates Rendering with views and urls in Django project 
+3.Templates Rendering with views and urls in Django project
+4.if,elif,else  and for loop in django
+5.Bootstrap integration in Django (type- CDN and Bootstrap installing)
+6.Template Inheritance
+-->types
+---Extends
+---include
+
