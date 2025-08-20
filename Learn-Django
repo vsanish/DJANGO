@@ -12,3 +12,4 @@ DJANGO BUILD CENTRE
 ---include
 7.Accessing Database and Admin Panel
 8.Creating Django Models
+9.Creating the CRUD operation in Django
